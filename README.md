@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Chris!
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/christopherkeim/christopherkeim/blob/main/cover.png" align="center" style="width: 100%" />
 </div>
 
 <a href="https://www.linkedin.com/in/christopher-keim-b4a24713b/" target="_blank">
@@ -10,14 +10,14 @@
 
 <br/>
 
-<div align="center">I'm a published learning and memory neuroscience researcher 🧠 and self-taught data scientist 💡 specializing in machine learning engineering 🤖.</div>
+**<div align="center">I'm a published learning and memory neuroscience researcher 🧠 and self-taught Data Scientist 💡 specializing in Machine Learning Engineering 🤖.</div>**
 
 <br/>
 
-- 🔭 I’m currently working on building + deploying models 🚀 ✨
+- 🔭 I’m currently working on building + deploying models 🐍 🚀 ✨
 - 🌱 I’m currently learning Test Driven Development, Software Engineering, DevOps, and MLOps
 - 🤝 I’m looking to collaborate on projects in the AI for Good space!
-- 💬 Ask me about entropy, complex systems, neural networks, brains, n-dimensional spaces, human language, LLMs , epigenetics
+- 💬 Ask me about Entropy, Complex Systems, Python, Bash, MLE, Neural Networks, Data Storytelling, Brains, N-dimensional spaces, Human Language, LLMs, DevOps, Epigenetics, Biological Systems, Psychological Science
 - 📫 How to reach me: https://www.linkedin.com/in/christopher-keim-b4a24713b/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: otters hold hands when they sleep so they don't float away 🦦
@@ -63,7 +63,7 @@
 
 <br/>
 
-## Github Stats
+## GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=christopherkeim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
