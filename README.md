@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on building + deploying models 🐍 🚀 ✨
 - 🌱 I’m currently learning Test Driven Development, Software Engineering, DevOps, and MLOps
 - 🤝 I’m looking to collaborate on projects in the AI for Good space!
-- 💬 Ask me about Entropy, Complex Systems, Python, Bash, MLE, Neural Networks, Data Storytelling, Brains, N-dimensional spaces, Human Language, LLMs, DevOps, Epigenetics, Biological Systems, Psychological Science
+- 💬 Ask me about Entropy, Complex Systems, Python, Bash, Data Science, MLE, Deep Learning, Neural Networks, AI, Data Storytelling, Brains, N-dimensional spaces, Human Language, LLMs, DevOps, Epigenetics, Biological Systems, Psychological Science
 - 📫 How to reach me: https://www.linkedin.com/in/christopher-keim-b4a24713b/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: otters hold hands when they sleep so they don't float away 🦦
