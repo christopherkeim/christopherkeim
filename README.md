@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Chris!
 
-<a href="https://www.linkedin.com/in/christopher-keim-b4a24713b/" target="_blank">
+<a href="https://www.linkedin.com/in/christopher-keim/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
