@@ -36,7 +36,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Software Engineering
+### Web
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" height="50" /></a>
