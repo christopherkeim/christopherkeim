@@ -81,6 +81,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" height="50" /></a>
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" height="50" /></a>
 
 </div>
 
