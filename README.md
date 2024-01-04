@@ -1,5 +1,8 @@
 ### Hi 👋, I'm Chris!
 
+<a href="https://www.christopherkeim.xyz" target="_blank">
+<img src=https://img.shields.io/badge/christopherkeim.xyz-black.svg?style=for-the-badge alt=christopherkeim.xyz style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/christopher-keim/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -27,7 +30,7 @@
 **Axioms**
 
 1. Thoughts have mass
-2. Information is thermodyanmic
+2. Information is thermodynamic
 3. Semantic meaning is thermodynamic
 
 <br/>
